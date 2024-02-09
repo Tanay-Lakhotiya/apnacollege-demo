@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository.
 <br>
-Author - Tanay Lakhotiya
+Author - Tanay Lakhotiya (BALIC)
